@@ -13,4 +13,4 @@ It returns my profile information and a random cat fact fetched from the Cat Fac
 ##  How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/hafylola/backend_stage0_hafyola.git>
+   git clone https://github.com/hafylola/backend_stage0_hafyola.git
